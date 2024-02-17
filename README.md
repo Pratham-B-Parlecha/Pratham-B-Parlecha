@@ -1,10 +1,10 @@
-# 💫 About Me: ![](https://komarev.com/ghpvc/?username=PRATHAMPARLECHA&label=Profile+views&style=for-the-badge&color=green)
+# 💫 About Me: ![](https://komarev.com/ghpvc/?username=Pratham-B-Parlecha&label=Profile+views&style=for-the-badge&color=green)
 🔭 I'm currently working on Full Stack Web Development.<br>🌱 I'm currently learning MERN.<br>🤝 Looking to Collaborate on Full Stack Web Development projects.<br>💬 Ask me about anything. 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratham.parlecha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamparlecha/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/prathamparlecha/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratham.parlecha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/Pratham-B-Parlecha/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/Pratham-B-Parlecha/) 
 
 
 # 💻 Tech Stack:
@@ -13,12 +13,12 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PRATHAMPARLECHA&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PRATHAMPARLECHA&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRATHAMPARLECHA&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Pratham-B-Parlecha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pratham-B-Parlecha&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-B-Parlecha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PRATHAMPARLECHA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Pratham-B-Parlecha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
