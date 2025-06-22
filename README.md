@@ -1,15 +1,16 @@
 # 💫 About Me: ![](https://komarev.com/ghpvc/?username=Pratham-B-Parlecha&label=Profile+views&style=for-the-badge&color=green)
-🔭 Currently working as Project Associate at Indian Institute of Science on innovative IoT and embedded systems projects. <br>🌱 Currently exploring GoLang and diving deeper into DevOps practices.<br>🎯 Building scalable web applications with Next.js, React, Express.js and GoLang.<br> 🤝Open to collaborating on exciting web development, IoT, and DevOps projects. <br>💬 Ask me about anything. 
+🔭 Currently working as Project Associate at Indian Institute of Science on IoT and embedded systems projects. <br>🌱 Currently exploring GoLang and diving deeper into DevOps practices.<br>🎯 Building scalable web applications with Next.js and GoLang.<br> 🤝 Open to collaborating on web development, IoT, and DevOps projects. <br>💬 Ask me about anything. 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 ## 💼 Experiences:
 - **Project Associate** at **Indian Institute of Science(IISc)**
-- **Full Stack Developer** at **Koach** 
+- **Full Stack Developer** at **Koach**
+- **Electronics Engineer** at **WinGlobal Tek**
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 # 💻 Tech Stack:
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
